@@ -1,0 +1,23 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-groq
+langgraph
+langgraph-checkpoint-sqlite
+
+# Vector DB + Embeddings
+chromadb
+sentence-transformers
+
+# Tools dependencies
+wikipedia
+arxiv
+youtube-search-python
+
+# Document loading
+pypdf

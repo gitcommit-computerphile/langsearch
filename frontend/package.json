@@ -1,0 +1,14 @@
+{
+  "name": "neural-search-frontend",
+  "version": "1.0.0",
+  "description": "VS Code dark theme frontend for Neural Search chatbot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^3.0.3"
+  }
+}
